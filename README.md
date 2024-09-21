@@ -1,9 +1,4 @@
-
-
-
-## Example
-This codemod turns X into Y. It also does Z.
-Note: this is a contrived example. Please modify it.
+ Statsig requires an async call to evaluate feature flags. The function name changed from variation to getFeatureFlag.
 
 ### Before
 
